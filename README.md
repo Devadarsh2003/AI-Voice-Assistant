@@ -57,8 +57,6 @@ docker pull devadarsh2003/voiceassistance-frontend
 ## Kubernetes Deployment (Coming Soon)
 Stay tuned for Kubernetes deployment steps!
 
-## Showcase
-![KIWI home page - Demo](images/.png)
 
 
 Future Additions
