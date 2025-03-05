@@ -16,7 +16,9 @@ AI-Voice-Assistant/
 ├── frontend/          # UI and scripts
 │   ├── index.html
 │   ├── scripts.js
-│   └── styles.css
+│   ├── styles.css
+|   ├── main.js
+|   └── Dockerfile
 ├── backend/           # FastAPI server
 │   ├── main.py
 │   ├── Dockerfile
